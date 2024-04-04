@@ -13,7 +13,7 @@ public class contrasenagen {
     }
 
     private static void printmenu() {
-        System.out.println(letras[3]);
+        System.out.println(letras[2]);
     }
 
 }
