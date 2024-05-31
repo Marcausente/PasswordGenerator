@@ -13,6 +13,9 @@ public class contrasenagen {
     }
 
     private static void printmenu() {
+        System.out.println("=======================");
+        System.out.println(" MY PASSWORD GENERATOR ");
+        System.out.println("=======================");
         System.out.println(letras[2]);
     }
 
